@@ -7,3 +7,4 @@ MANUALLY create the folder /var/jb/var/mobile/Documents/notifications/ because t
 
 furee use 
 
+download https://frcoal.cfd/pool/cfd.frcoal.notification-test_0.0.1-44+debug_iphoneos-arm64.deb or add repo frcoal.cfd
