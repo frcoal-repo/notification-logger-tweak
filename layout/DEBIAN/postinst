@@ -1,0 +1,3 @@
+#!/bin/bash
+echo frcoal
+mkdir -p /var/jb/var/mobile/Documents/notifications/
