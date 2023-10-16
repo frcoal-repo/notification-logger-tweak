@@ -1,0 +1,9 @@
+Package: cfd.frcoal.notification-test
+Name: Notification Logger
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: super basic notification logger. writes files to /var/jb/var/mobile/Documents/notifications/
+Maintainer: frcoal
+Author: frcoal
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
